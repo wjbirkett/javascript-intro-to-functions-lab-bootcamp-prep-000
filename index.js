@@ -30,4 +30,3 @@ function sayHiToGrandma(string) {
     return 'YES INDEED'}
   else {(string === "I love you.")
     return 'I love you, too.'}
-
