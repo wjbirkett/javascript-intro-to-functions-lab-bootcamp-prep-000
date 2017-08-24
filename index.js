@@ -24,16 +24,14 @@ var mixedCase ='I love you, Grandma.'
 
 
 function sayHiToGrandma(string) {
-  console.log('hello!')
-  return 'I can\'t hear you!'.toLowerCase
+  if(string ==== string.toLowerCase)
+    return 'I can\'t hear you!'
+  if else {(string === string.string.toUpperCase)
+    return 'YES INDEED'
+  else {(string === "I love you.")
+    return 'I love you, too.'
+  }
+  
+  }
 }
 
-function sayHiToGrandma(string) {
-  console.log('HELLO!').toUpperCase
-  return 'YES INDEED!'.toUpperCase
-}
-
-function sayHiToGrandma(string) {
-  console.log('I love you, Grandma.')
-  return 'I love you, too.'
-}
